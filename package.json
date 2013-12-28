@@ -1,0 +1,14 @@
+{
+  "name": "TOSW-demo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test" : "./node_modules/mocha/bin/mocha -R spec test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "~1.16.2"
+  }
+}
